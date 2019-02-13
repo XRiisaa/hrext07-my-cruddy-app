@@ -25,6 +25,8 @@ Create Read Update and Delete framework using JS
         - [ ] Manual drag
         - [ ] In order of next next notification
 - [ ] Create to do list
+    - [ ] Set task name
+    - [ ] Set description
     - [ ] Set dates
     - [ ] Sorting options
         - [ ] Date added
@@ -54,3 +56,4 @@ Create Read Update and Delete framework using JS
     - [ ] Add preset values of water intake
         - [ ] Bottle of Water, mug of water, etc.
         - [ ] Ability to manually add preset values
+    - [ ] Add visuals of fishbowl that corresponds to water intake
