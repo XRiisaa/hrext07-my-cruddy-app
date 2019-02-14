@@ -25,15 +25,15 @@ Create Read Update and Delete framework using JS
         - [ ] Manual drag
         - [ ] In order of next next notification
 - [ ] Create to do list
-    - [ ] Set task name
-    - [ ] Set description
+    - [x] Set task name
+    - [x] Set description
     - [ ] Set dates
     - [ ] Sorting options
         - [ ] Date added
         - [ ] Urgency levels
         - [ ] Due date
     - [ ] Ability to drag to manually order list
-    - [ ] Ability to check off
+    - [X] Ability to check off
     - [ ] Ability to delete
     - [ ] Ability to delete all checked
     - [ ] Print option
